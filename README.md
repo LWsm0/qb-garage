@@ -2,8 +2,7 @@
 # qb-garage
 redesigned qb-garage by LWsm0
 
-preview : https://medal.tv/games/gta-v/clips/lACrpz62q4WPI9UzK?invite=cr-MSxzam8sMzE5NjYxMzk0
-
+preview : https://github.com/user-attachments/assets/c9ebf8ed-e8ae-4b5a-b6e0-c5acee2e7d37
 
 
 dependency :
