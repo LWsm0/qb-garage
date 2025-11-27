@@ -18,3 +18,5 @@ to get all vehicle images and use them
 put them on qb-garages\html\vehimages
 
 
+
+credits : https://github.com/qbcore-framework/qb-garages
